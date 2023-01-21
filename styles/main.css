@@ -44,3 +44,18 @@ h3{
   
   
 }
+@media (max-width: 400px){
+  li {
+    list-style: none;
+    float: left;
+    width: 15em;
+    font-size: 15px;
+    font-family: 'Indie Flower', cursive;
+    
+  }
+  .home{
+    width: 100%;
+  }
+  
+}
+  

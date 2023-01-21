@@ -64,3 +64,20 @@ h3{
   width: 330px;
 }
 
+@media (max-width: 400px){
+  li {
+    list-style: none;
+    float: left;
+    width: 15em;
+    font-size: 15px;
+    font-family: 'Indie Flower', cursive;
+  }
+  .home{
+    width: 100%;
+  }
+  .image5{
+    height: auto;
+    width: 350px;
+  }
+
+}
